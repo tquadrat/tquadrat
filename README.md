@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on … to be honest, lots of stuff, but I do not have time enough to provide significant contributions to any project.
 - 📫 How to reach me: send me an email to tquadrat.do@gmail.com or ping me on Telegram at @tquadrat_do
 - ⏰ Currently, I am building my own solution for a home automation.
-- 🦠 I am fully jabbed, and if additional shots are required, I will take them – although I hate 💉 to be poked with needles …
+- 🦠 I am fully jabbed, and if additional shots are required, I will take them – although I hate 💉 to be poked with needles … meanwhile I also recovered from COVID-19, and I can tell you: even when vaccinated, COVID is not a joke!
 <!---
 tquadrat/tquadrat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
